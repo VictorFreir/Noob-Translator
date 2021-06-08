@@ -1,0 +1,9 @@
+1- Para Árabe
+2- Para Chinês
+3- Para Espanhol
+4- Para Francês
+5- Para Italiano
+6- Para Japonês
+7- Para Português
+8- Para Inglês
+9- Para Holandês
